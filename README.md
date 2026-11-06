@@ -8,13 +8,14 @@
 
 
 
-Ritwik Patra, Ph.D.
+_Trading Pipettes for Pipelines: Translating Biology into Terabytes_
 
 Project Scientist-I · BRIC-Institute of Life Sciences (BRIC-ILS), Bhubaneswar, India
 
 </div>
 
-🔬 Current Research Interests
+🔬 **Current Research Interests**
+
 
 High-Throughput Cheminformatics, Computational Drug Discovery & Translational Oncology
 

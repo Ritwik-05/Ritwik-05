@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header Banner -->
 <a href="https://github.com/Ritwik-05">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=85&lines=Dr.+Ritwik+Patra%2C+Ph.D.;Computational+%26+Cheminformatics+Scientist;Marine+Natural+Products+%C2%B7+Virtual+Screening+%C2%B7+Multi-Omics" alt="Ritwik Patra Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=85&lines=Dr.+Ritwik+Patra%2C+Ph.D.;Computational+Biologist%26+Cheminformatician;" alt="Ritwik Patra Typing SVG" />
 </a>
 
 
@@ -80,6 +80,7 @@ Biomolecular Characterization: Receptor binding analysis, protein expression, an
 
 
 
+
 <!-- Animated Contribution Snake -->
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ritwik-05/Ritwik-05/output/github-contribution-grid-snake-dark.svg" />
@@ -87,7 +88,9 @@ Biomolecular Characterization: Receptor binding analysis, protein expression, an
 <img alt="Ritwik-05 GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ritwik-05/Ritwik-05/output/github-contribution-grid-snake.svg" />
 </picture>
 
+
 </div>
+
 
 <div align="center">
 <sub>🧬 <i>"Decoding chemical space and transcriptomic networks to accelerate rational therapeutic discovery."</i> · <b>Ritwik Patra, Ph.D.</b></sub>

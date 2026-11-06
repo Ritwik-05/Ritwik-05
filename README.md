@@ -5,6 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=85&lines=Dr.+Ritwik+Patra%2C+Ph.D.;Computational+%26+Cheminformatics+Scientist;Marine+Natural+Products+%C2%B7+Virtual+Screening+%C2%B7+Multi-Omics" alt="Ritwik Patra Typing SVG" />
 </a>
 
+
+
+
 Ritwik Patra, Ph.D.
 
 Project Scientist-I · BRIC-Institute of Life Sciences (BRIC-ILS), Bhubaneswar, India

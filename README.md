@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header Banner -->
 <a href="https://github.com/Ritwik-05">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=85&lines=Dr.+Ritwik+Patra%2C+Ph.D.;Computational+Biologist%26+Cheminformatician;" alt="Ritwik Patra Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=85&lines=Dr.+Ritwik+Patra%2C+Ph.D.;Computational+Biologist+%26+Cheminformatician;" alt="Ritwik Patra Typing SVG" />
 </a>
 
 
